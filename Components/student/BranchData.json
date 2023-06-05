@@ -1,0 +1,43 @@
+{
+    "Course":{
+            "Btech":[
+                {
+                    "courseName":"CSE",
+                    "BranchName":"B-tech"
+                },
+                {
+                    "courseName":"ELECTRIC",
+                    "BranchName":"B-tech"
+                },
+                {
+                    "courseName":"IT",
+                    "BranchName":"B-tech"
+                },
+                {
+                    "courseName":"ROBOTICS",
+                    "BranchName":"B-tech"
+                }
+            ],
+
+            "JMC":[
+                {
+                    "courseName":"JMC",
+                    "BranchName":"JMC"
+                }   
+            ],
+
+            "BCA":[
+                {
+                    "courseName":"BCA",
+                    "BranchName":"BCA"
+                }
+            ],
+            "B.COM":[
+                {
+                    "courseName":"B.COM",
+                    "BranchName":"B.COM"
+                }
+            ]
+}
+}
+

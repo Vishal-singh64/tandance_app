@@ -1,0 +1,760 @@
+{
+    "Semester":{
+        "CSE":[
+        {
+            "id":1,
+            "courseName":"CSE",
+            "BranchName":"B-tech",
+            "Semester":"1st",
+            "StundentCount":142,
+            "Subjects":[
+                {
+                    "SubjectName":"Physics",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":142
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":142
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":142
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":142
+                }
+            ]
+        },
+        {
+            "id":2,
+            "courseName":"CSE",
+            "BranchName":"B-tech",
+            "Semester":"2nd",
+            "StundentCount":132,
+            "Subjects":[
+                {
+                    "SubjectName":"Chemistary",
+                    "SubjectTeacher":"Preeti Rani",
+                    "StundentCount":132
+                },
+                {
+                    "SubjectName":"Math II",
+                    "SubjectTeacher":"Sumit Verma",
+                    "StundentCount":132
+                },
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Bharat Singh",
+                    "StundentCount":132
+                },
+                {
+                    "SubjectName":"Drwaing",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":132
+                }
+            ]
+        },
+        {   
+            "id":3,
+            "courseName":"CSE",
+            "BranchName":"B-tech",
+            "Semester":"3rd",
+            "StundentCount":93,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {   
+            "id":4,
+            "courseName":"CSE",
+            "BranchName":"B-tech",
+            "Semester":"4th",
+            "StundentCount":112,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {   
+            "id":5,
+            "courseName":"CSE",
+            "BranchName":"B-tech",
+            "Semester":"5th",
+            "StundentCount":332,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":6,
+            "courseName":"CSE",
+            "BranchName":"B-tech",
+            "Semester":"6th",
+            "StundentCount":75,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":7,
+            "courseName":"CSE",
+            "BranchName":"B-tech",
+            "Semester":"7th",
+            "StundentCount":62,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        }
+    ],
+    "ELECTRIC":[
+        {
+            "id":1,
+            "courseName":"ELECTRIC",
+            "BranchName":"B-tech",
+            "Semester":"1st",
+            "StundentCount":142,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":2,
+            "courseName":"ELECTRIC",
+            "BranchName":"B-tech",
+            "Semester":"2nd",
+            "StundentCount":132,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":3,
+            "courseName":"ELECTRIC",
+            "BranchName":"B-tech",
+            "Semester":"3rd",
+            "StundentCount":93,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":4,
+            "courseName":"ELECTRIC",
+            "BranchName":"B-tech",
+            "Semester":"4th",
+            "StundentCount":112,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+            
+        },
+        {
+            "id":5,
+            "courseName":"ELECTRIC",
+            "BranchName":"B-tech",
+            "Semester":"5th",
+            "StundentCount":332,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":6,
+            "courseName":"ELECTRIC",
+            "BranchName":"B-tech",
+            "Semester":"6th",
+            "StundentCount":75,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":7,
+            "courseName":"ELECTRIC",
+            "BranchName":"B-tech",
+            "Semester":"7th",
+            "StundentCount":62,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        }
+
+    ],
+    "IT":[
+        {
+            "id":1,
+            "courseName":"IT",
+            "BranchName":"B-tech",
+            "Semester":"1st",
+            "StundentCount":142,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":2,
+            "courseName":"IT",
+            "BranchName":"B-tech",
+            "Semester":"2nd",
+            "StundentCount":132,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":3,
+            "courseName":"IT",
+            "BranchName":"B-tech",
+            "Semester":"3rd",
+            "StundentCount":93,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":4,
+            "courseName":"IT",
+            "BranchName":"B-tech",
+            "Semester":"4th",
+            "StundentCount":112,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":5,
+            "courseName":"IT",
+            "BranchName":"B-tech",
+            "Semester":"5th",
+            "StundentCount":332
+        },
+        {
+            "id":6,
+            "courseName":"IT",
+            "BranchName":"B-tech",
+            "Semester":"6th",
+            "StundentCount":75
+        },
+        {
+            "id":7,
+            "courseName":"IT",
+            "BranchName":"B-tech",
+            "Semester":"7th",
+            "StundentCount":62
+        }
+    ],
+    "ROBOTICS":[
+        {
+            "id":1,
+            "courseName":"ROBOTICS",
+            "BranchName":"B-tech",
+            "Semester":"1st",
+            "StundentCount":142,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":2,
+            "courseName":"ROBOTICS",
+            "BranchName":"B-tech",
+            "Semester":"2nd",
+            "StundentCount":132,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":3,
+            "courseName":"ROBOTICS",
+            "BranchName":"B-tech",
+            "Semester":"3rd",
+            "StundentCount":93,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":4,
+            "courseName":"ROBOTICS",
+            "BranchName":"B-tech",
+            "Semester":"4th",
+            "StundentCount":112,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":5,
+            "courseName":"ROBOTICS",
+            "BranchName":"B-tech",
+            "Semester":"5th",
+            "StundentCount":332,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        },
+        {
+            "id":6,
+            "courseName":"ROBOTICS",
+            "BranchName":"B-tech",
+            "Semester":"6th",
+            "StundentCount":75,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+            
+        },
+        {
+            "id":7,
+            "courseName":"ROBOTICS",
+            "BranchName":"B-tech",
+            "Semester":"7th",
+            "StundentCount":62,
+            "Subjects":[
+                {
+                    "SubjectName":"PPS",
+                    "SubjectTeacher":"Rasheet kaur",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"Math I",
+                    "SubjectTeacher":"Ishika Walia",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"E D",
+                    "SubjectTeacher":"Raghav Singh",
+                    "StundentCount":93
+                },
+                {
+                    "SubjectName":"PD",
+                    "SubjectTeacher":"Vikas Kumar",
+                    "StundentCount":93
+                }
+            ]
+        }
+    ]
+    }}

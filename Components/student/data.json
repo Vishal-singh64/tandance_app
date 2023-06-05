@@ -1,0 +1,16 @@
+{
+    "Branch":[
+        {
+            "BranchName":"B-tech"    
+        },
+        {
+            "BranchName":"Journalism"
+        },{
+            "BranchName":"BCA"
+        },
+        {
+            "BranchName":"BCom"
+        }
+        
+    ]
+}

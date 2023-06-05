@@ -1,0 +1,20 @@
+{
+    "StudentList":[
+        {
+            "Name":"Vishal Singh",
+            "Rollno":"1906164"
+        },
+        {
+            "Name":"Vikas Kumar",
+            "Rollno":"1906161"
+        },
+        {
+            "Name":"Rahul",
+            "Rollno":"1906024"
+        },
+        {
+            "Name":"Rajat",
+            "Rollno":"1906089"
+        }
+    ]
+}
